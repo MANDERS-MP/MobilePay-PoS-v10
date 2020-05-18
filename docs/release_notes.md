@@ -4,6 +4,10 @@ The Point of Sale API V10 will be in production **Q2 2020**. It will be released
 
 ## Changelog
 
+### 2020-05-18
+
+- Made side menu scrollable
+
 ### 2020-05-14
 
 - Added error 1182 in [API ERRORS](endpoint_errors)
